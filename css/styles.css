@@ -1,64 +1,26 @@
-.raleway-uniquifier> {
-    font-family: "Raleway", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
-}
-
-.roboto-regular {
+.body-style {
     font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
-.roboto-medium {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-}
-
-.roboto-bold {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-}
-
-.head-page .link-head {
-    color: #2E2F42;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-}
-
-/* СТИЛИ */
-/* НАВИГАЦИЯ */
 .logo-head {
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 21px;
-    letter-spacing: 0.03em;
-    text-align: left;
-    font-optical-sizing: auto;
-    line-height: 1.17;
-    color: #4d5ae5;
-    text-transform: uppercase;
+     font-family: "Raleway", sans-serif;
+     font-weight: 700;
+     font-size: 18px;
+     line-height: 1.16667;
+     letter-spacing: 0.03em;
+     text-transform: uppercase;
+     color: #4d5ae5;
 }
 
 .logo-head-second {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: #2e2f42;
-
-}
-
-.head-page .link-head {
-
-    font-family: "Roboto" sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    text-align: left;
-    color: #2E2F42;
 }
 
 .head-page .link-head:hover {
@@ -68,6 +30,25 @@
 .head-page .link-head:focus {
     color: #404bbf;
 }
+
+.link-head {font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
 
 /* Контактная информация */
 .addres-class {
@@ -83,22 +64,14 @@
     text-align: left;
     color: #434455;
 }
-
+    
 .contacts .my-contacts:hover {
     color: #404bbf;
 }
-
+    
 .contacts .my-contacts:focus {
     color: #404bbf;
 }
-
-/* Тело */
-.body-style {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
-}
-
 /* Секция 1 */
 .section-first-background {
     background-color: #2E2F42;
@@ -114,7 +87,6 @@
     color: #FFFFFF;
     line-height: 1.07;
 }
-
 /* Кнопка */
 .button-blue {
     font-family: "Roboto", sans-serif;
@@ -122,20 +94,19 @@
     font-style: normal;
     background-color: #4D5AE5;
     color: #FFFFFF;
-    border-color: #4D5AE5;
+     border-color: #4D5AE5;
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-}
-
+    }
+    
 .button-blue:hover {
     background-color: #404BBF;
 }
-
+    
 .button-blue:focus {
     background-color: #404BBF;
 }
-
 /* Секция 2 */
 .section-second-text .title-s-second {
     font-family: "Roboto", sans-serif;
@@ -155,10 +126,9 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
 /* Секция 3 */
 .section-three {
-    background-color: #F4F4FD;
+background-color: #F4F4FD;
 }
 
 .title-second {
@@ -185,7 +155,7 @@
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
-}
+    }
 
 .section-three-text .proffesion {
     font-family: "Roboto", sans-serif;
@@ -194,9 +164,7 @@
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #434455;
-}
-
+    color: #434455;}
 /* Секция 4 */
 .title-three {
     font-family: "Roboto", sans-serif;
@@ -209,7 +177,6 @@
     text-transform: capitalize;
     line-height: 1.11;
 }
-
 .section-four-text .portfolio-name {
     font-family: "Roboto", sans-serif;
     font-size: 20px;
@@ -219,7 +186,6 @@
     text-align: left;
     color: #2E2F42;
 }
-
 .section-four-text .portfolio-class {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -229,7 +195,6 @@
     color: #434455;
     line-height: 1.5;
 }
-
 /* Ноги  */
 .footer-logo {
     font-family: "Raleway", sans-serif;
@@ -255,7 +220,7 @@
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: #F4F4FD;
+    color: #f4f4fd;
     line-height: 1.5;
     letter-spacing: 0.02em
 }

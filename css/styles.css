@@ -1,5 +1,7 @@
+
 .raleway-uniquifier> {
     font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
 }
@@ -37,9 +39,10 @@
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
+    text-align: left;
     line-height: 1.17;
     color: #4d5ae5;
+    text-transform: uppercase;
 }
 
 .logo-head-second {
@@ -49,7 +52,7 @@
 
 .head-page .link-head {
 
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
@@ -102,7 +105,7 @@
 }
 
 .title-first {
-    font-family: "Roboto" sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 56px;
     font-weight: 700;
     line-height: 60px;
@@ -254,5 +257,4 @@
     color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em
-    blackground-color: #2e2f42;
 }

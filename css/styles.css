@@ -79,7 +79,7 @@
 /* Контактная информация */
 
 .addres-class {
-        font-style: normal;
+  font-style: normal;
 }
 
 .contacts .my-contacts {
@@ -120,10 +120,8 @@
   font-size: 16px;
   font-weight: 500;
   font-style: normal;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   color: #ffffff;
-  border-color: #4d5ae5;
   line-height: 1.5;
   letter-spacing: 0.04em;
   align-items: center;
@@ -164,11 +162,12 @@
   font-family: "Roboto", sans-serif; 
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
-    }
+  }
         
 .section-three-text  {
   font-family: "Roboto", sans-serif;
@@ -209,7 +208,7 @@
   font-weight: 700;
   line-height: 40px;
   letter-spacing: 0.02em;
-  text-align: left;
+  text-align:center;
   color: #2E2F42;
   text-transform: capitalize;
   line-height: 1.11;

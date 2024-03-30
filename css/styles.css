@@ -29,14 +29,10 @@
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
-  width: 1440px;
-  height: 72px;
-
 }
 
 .logo-head {
   font-family: "Raleway", sans-serif;
-  align-items: center;
   justify-content: flex-start;
   font-weight: 700;
   font-size: 18px;
@@ -121,7 +117,6 @@
   color: #ffffff;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  align-items: center;
   cursor: pointer;
 }
 
@@ -237,7 +232,7 @@
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.02em;
-  text-align: right;
+  text-align: left;
   color: #434455;
   line-height: 1.5;
 }
@@ -269,4 +264,4 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: left;
-    }
+  }

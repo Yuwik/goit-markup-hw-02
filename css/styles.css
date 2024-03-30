@@ -126,6 +126,7 @@
   border-color: #4d5ae5;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  align-items: center;
   cursor: pointer;
 }
 
@@ -208,7 +209,7 @@
   font-weight: 700;
   line-height: 40px;
   letter-spacing: 0.02em;
-  text-align: center;
+  text-align: left;
   color: #2E2F42;
   text-transform: capitalize;
   line-height: 1.11;
@@ -239,7 +240,7 @@
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.02em;
-  text-align: left;
+  text-align: right;
   color: #434455;
   line-height: 1.5;
 }
@@ -270,4 +271,5 @@
   color: #f4f4fd;;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-align: left;
     }

@@ -36,11 +36,8 @@
 
 .logo-head {
   font-family: "Raleway", sans-serif;
-  display: flex;
   align-items: center;
   justify-content: flex-start;
-  flex-direction: row;
-  gap: 0px;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -148,6 +145,7 @@
 .section-second-text .paragraph-section-second {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
+  font-size: 16px;
   font-style: normal;
   color: #434455;
   line-height: 1.5;
